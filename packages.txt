@@ -2,3 +2,4 @@ libcairo2-dev
 libpango1.0-dev
 libpixman-1-dev
 ffmpeg
+texlive-full
