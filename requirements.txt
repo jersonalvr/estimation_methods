@@ -1,0 +1,6 @@
+streamlit
+streamlit_lottie
+manim
+pandas
+numpy
+google-generativeai
